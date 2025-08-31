@@ -1,5 +1,5 @@
 {
-  "version": "1.27",
+  "version": "1.28",
   "token": "ABC123XYZ", 
-  "firmware_url": "https://github.com/kasman121-byte/esp32baubauIot/raw/refs/heads/main/sketch_aug31a.ino.bin"
+  "firmware_url": "https://github.com/kasman121-byte/esp32baubauIot/raw/refs/heads/main/bcsketch_aug31a_copy_20250831103622.ino"
 }
