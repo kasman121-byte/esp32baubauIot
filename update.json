@@ -1,0 +1,5 @@
+{
+  "version"; "1.2".
+  "token"; "ABC12345",
+  "firmware_url"; "http:.//10.14.16.56/Pictures/iot/otwithversionjson.ino.bin"
+}
